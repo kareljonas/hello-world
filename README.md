@@ -4,4 +4,4 @@ another description
 dalsi zmena
 
 \n DALSI ZMENA
-
+takto zmenim
